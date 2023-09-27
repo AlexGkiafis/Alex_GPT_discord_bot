@@ -1,0 +1,27 @@
+{
+  "name": "alex-gpt-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discord-player/extractor": "^4.4.4",
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/rest": "^2.0.1",
+    "@discordjs/voice": "^0.16.0",
+    "discord-api-types": "^0.37.57",
+    "discord-player": "^6.6.4",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "ffmpeg-static": "^5.2.0",
+    "mediaplex": "^0.0.8",
+    "node-fetch": "^2.7.0",
+    "openai": "^4.10.0",
+    "youtube-ext": "^1.1.14"
+  }
+}
